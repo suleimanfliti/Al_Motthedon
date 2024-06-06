@@ -49,7 +49,7 @@
               <div class="card-contentt">
                 <h3 style="color: white">Headphone</h3>
                 <h5 style="color: goldenrod">AED 250</h5>
-                <button class="card-button mt-5">See More</button>
+                <button class="card-button mt-5 button-gold">See More</button>
               </div>
             </div>
             <div class="col-lg-4">
@@ -63,8 +63,8 @@
                 </div>
               </div>
               <div class="card-contentt">
-                <h3 style="color: white">Headphone</h3>
-                <h5 style="color: goldenrod">AED 250</h5>
+                <h3 style="color: white">jewelry</h3>
+                <h5 style="color: goldenrod">AED 500</h5>
                 <button class="card-button mt-5">See More</button>
               </div>
             </div>
@@ -79,8 +79,8 @@
                 </div>
               </div>
               <div class="card-contentt">
-                <h3 style="color: white">Headphone</h3>
-                <h5 style="color: goldenrod">AED 250</h5>
+                <h3 style="color: white">Home</h3>
+                <h5 style="color: goldenrod">AED 350</h5>
                 <button class="card-button mt-5">See More</button>
               </div>
             </div>

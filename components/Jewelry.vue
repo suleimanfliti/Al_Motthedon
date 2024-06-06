@@ -28,7 +28,7 @@
             LUXURY JEWELRY COLLECTIONLUXURY JEWELRY COLLECTION LUXURY JEWELRY
             COLLECTION
           </p>
-          <button class="card-button mt-5">See More</button>
+          <button class="card-button mt-5 button-gold">See More</button>
         </div>
       </div>
     </div>

@@ -8,13 +8,10 @@ const sochialList = [
 
 const navLink = [
   { href: "/", name: "Home" },
-  { href: "/cart", name: "Cart" },
   { href: "/products/categories/electronics", name: "Electronics" },
   { href: "/products/categories/jewelery", name: "Jewelery" },
   { href: "/products/categories/men's clothing", name: "Men Clothing" },
   { href: "/products/categories/women's clothing", name: "Women Clothing" },
-  { href: "/media-center", name: "Media Center" },
-  { href: "/contact-us", name: "Contact Us" },
 ];
 </script>
 
@@ -46,7 +43,7 @@ const navLink = [
         id="navbarSupportedContent"
       >
         <div class="d-flex gap-5 align-items-center">
-          <div>
+          <!-- <div>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
@@ -78,7 +75,7 @@ const navLink = [
                 </g>
               </g>
             </svg>
-          </div>
+          </div> -->
           <ul class="d-flex align-items-center justify-content-end m-0">
             <li
               class="list-inline-item"
@@ -96,8 +93,16 @@ const navLink = [
             <NuxtLink :href="item.href" class="text-white nav-link active">
               {{ item.name }}
             </NuxtLink>
+
+          </li>
+          <li>
+            <NuxtLink href="/cart">
+              <img src="/public/Icons/shop.png" width="50px"alt="Instagram" />
+            </NuxtLink>
+          
           </li>
         </ul>
+
       </div>
     </div>
   </nav>

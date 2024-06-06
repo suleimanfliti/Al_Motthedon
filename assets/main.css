@@ -86,6 +86,7 @@ body {
   width: 300px;
   padding: 8px 0px;
   background: none;
+  background-color: goldenrod;
   border-color: goldenrod;
   color: white;
 }
