@@ -36,7 +36,7 @@
       <div class="carousel-inner">
         <div class="carousel-item container active" data-bs-interval="10000">
           <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 mt-4">
               <div class="card">
                 <div class="card-body card-height">
                   <img
@@ -52,7 +52,7 @@
                 <button class="card-button mt-5 button-gold">See More</button>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 mt-4">
               <div class="card">
                 <div class="card-body card-height">
                   <img
@@ -68,7 +68,7 @@
                 <button class="card-button mt-5">See More</button>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 mt-4">
               <div class="card">
                 <div class="card-body card-height">
                   <img
@@ -88,7 +88,7 @@
         </div>
         <div class="carousel-item container" data-bs-interval="20000">
           <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 mt-4">
               <div class="card">
                 <div class="card-body card-height">
                   <img
@@ -104,7 +104,7 @@
                 <button class="card-button mt-5">See More</button>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 mt-4">
               <div class="card">
                 <div class="card-body card-height">
                   <img
@@ -120,7 +120,7 @@
                 <button class="card-button mt-5">See More</button>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 mt-4">
               <div class="card">
                 <div class="card-body card-height">
                   <img
@@ -194,7 +194,7 @@
     </div>
     <div class="container-fluid me-auto d-lg-none">
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-lg-4 mt-4">
           <div class="card">
             <div class="card-body card-height">
               <img
@@ -210,7 +210,7 @@
             <button class="card-button mt-5">See More</button>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 mt-4">
           <div class="card">
             <div class="card-body card-height">
               <img
@@ -226,7 +226,7 @@
             <button class="card-button mt-5">See More</button>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 mt-4">
           <div class="card">
             <div class="card-body card-height">
               <img

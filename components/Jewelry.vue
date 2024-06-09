@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid container-lg section-jewelry">
+  <div class="container-fluid container-lg section-jewelry" style="margin-bottom: 70px;">
     <div class="title-jewelry-box">
       <div class="container">
         <div class="row">

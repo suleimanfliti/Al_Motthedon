@@ -4,7 +4,7 @@
       <div class="thin-golden-row"></div>
 
       <div class="row">
-        <div class="col-4">
+        <div class="col-sm-4">
           <img src="/logo.png" alt="" width="250" height="250" />
           <div style="margin-left: 65px">
             <ul class="d-flex list-inline">
@@ -48,7 +48,7 @@
           </div>
         </div>
 
-        <div class="col-4 d-flex" style="margin-top: 6rem">
+        <div class="col-sm-4 d-flex" style="margin-top: 6rem">
           <div class="footer-links">
             <h2 class="text-white">Home</h2>
             <h6>About us</h6>
@@ -62,7 +62,7 @@
           </div>
         </div>
 
-        <div class="col-4">
+        <div class="col-sm-4">
           <div class="footer-linkss">
             <h2 class="text-white">Contact us</h2>
             <h6>+971 56 715 5150</h6>
